@@ -2,6 +2,10 @@
 <h3 align="center">Frontend Developer Angular</h3>
 
 <p>Front-End Web Developer. Loves to write code in high-paced and challenging environment with an emphasis on using best practices to develop high quality software that meets project requirements.</p>
+<ul>
+  <li>🌱 I’m currently learning backend .Net , React</li>
+  <li>👨‍💻 All of my projects are available at https://portofolio-pink-delta.vercel.app</li>
+</ul>
 
 
 
