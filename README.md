@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Basmala Ahmed</h1>
-<h3 align="center">Frontend Developer Angular</h3>
+<h3 align="center">Frontend Developer</h3>
 
 <p>Front-End Web Developer. Loves to write code in high-paced and challenging environment with an emphasis on using best practices to develop high quality software that meets project requirements.</p>
 <ul>
