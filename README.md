@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Basmala Ahmed</h1>
 <h3 align="center">CRM Frontend Developer</h3>
 
-<p>Front-End Web Developer. Loves to write code in high-paced and challenging environment with an emphasis on using best practices to develop high quality software that meets project requirements.</p>
+<p>As a Front-End Developer, I have extensive experience in technologies like HTML5, CSS, JavaScript, and Angular, combined with a creative vision to enhance user experience and build interactive interfaces. I am proficient in implementing unit testing to ensure high-quality and reliable code, which strengthens the performance and maintainability of projects.
+I enjoy sharing my knowledge and expertise with others, having mentored and taught web development, helping students and developers improve their skills. I am constantly eager to learn and grow in this ever-evolving field, leveraging the latest technologies and trends in my work.</p>
 <ul>
-  <li>🌱 I’m currently learning backend .Net , React</li>
+  <li>🌱 I’m currently learning backend .Net</li>
  
 </ul>
 
